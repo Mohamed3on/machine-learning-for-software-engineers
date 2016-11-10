@@ -1,4 +1,4 @@
-# Top-down learning path: Machine Learning for Software Engineers
+﻿# Top-down learning path: Machine Learning for Software Engineers
 
 <p align="center">
   <a href="https://github.com/ZuzooVn/machine-learning-for-software-engineers">
@@ -29,10 +29,10 @@ Please, feel free to make any contributions you feel will make it better.
 
 ## Table of Contents
 
-- [What is it?](#what-is-it)
-- [Why use it?](#why-use-it)
-- [How to use it](#how-to-use-it)
-- [Follow me](#follow-me)
+- [x](#what-is-it)
+- [x](#why-use-it)
+- [x](#how-to-use-it)
+- [x](#follow-me)
 - [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
 - [About Video Resources](#about-video-resources)
 - [Prerequisite Knowledge](#prerequisite-knowledge)
